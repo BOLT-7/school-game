@@ -5,5 +5,6 @@
 ### Group Members:
 - [Basel Allam](https://github.com/BOLT-7)
 - [Josh Cole](https://github.com/J0wshh)
+- [Varshitha Venkatesh](https://ca.linkedin.com/in/varshitha-venkateshhh-b7728b1b2) 
 - [Zeba](https://github.com/neeemmmooo)
-- [Farhan](https://github.com/farhanshahriars) 
+- [Farhan](https://github.com/farhanshahriars)
