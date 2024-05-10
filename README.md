@@ -8,3 +8,6 @@
 - [Varshitha Venkatesh](https://ca.linkedin.com/in/varshitha-venkateshhh-b7728b1b2) 
 - [Zeba](https://github.com/neeemmmooo)
 - [Farhan](https://github.com/farhanshahriars)
+- Sam
+- Phillip
+- Bhaumik 
