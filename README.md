@@ -6,3 +6,4 @@
 - [Basel Allam](https://github.com/BOLT-7)
 - [Josh Cole](https://github.com/J0wshh)
 - [Zeba](https://github.com/neeemmmooo)
+- [Farhan](https://github.com/farhanshahriars) 
